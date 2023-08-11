@@ -1,4 +1,4 @@
-# Multiple Categories Listing Website - Readme
+# Multiple Categories Listing Website 
 
 Welcome to the Multiple Categories Listing Website, a powerful platform that allows users to search and explore various business listings based on location and category. This document provides an overview of the website's features, technologies used, and instructions for setting up and running the project.
 
